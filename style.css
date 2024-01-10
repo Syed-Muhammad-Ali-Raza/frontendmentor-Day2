@@ -1,0 +1,21 @@
+.container {
+margin-top: 5px;
+box-shadow: 100px;
+background-color: white;
+
+}
+
+
+
+
+    body {
+        background: url(./Assset/images/background-pattern-desktop.svg) top center ;
+       
+        background-size: cover; /* Adjust this based on your design needs */
+      }
+      
+      h2{
+        font-size: 20px;
+        text-wrap: wrap;
+        text-decoration: solid;
+      }
